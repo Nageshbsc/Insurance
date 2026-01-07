@@ -1,6 +1,7 @@
 📊 Insurance Data Analysis Project
 🧾 Project Overview
 
+
 This project focuses on analyzing insurance customer data using Python and popular data analysis libraries.
 The main goal is to understand how different factors like age, gender, BMI, children, smoking habits, and region affect insurance charges.
 
@@ -13,6 +14,8 @@ Students working on college projects
 Interview preparation
 
 Understanding real-world datasets
+
+
 
 📂 Dataset Information
 
@@ -34,6 +37,8 @@ smoker	                      Smoking status (yes/no)
 region	                      Residential area
 charges	                      Medical insurance cost
 
+
+
 🛠️ Technologies Used
 
 Python
@@ -48,6 +53,8 @@ Seaborn     –   Advanced plots
 
 Jupyter Notebook / VS Code
 
+
+
 📌 Key Insights
 
 Smokers have significantly higher charges
@@ -57,6 +64,8 @@ Insurance cost increases with age
 BMI also affects medical charges
 
 Region has less impact compared to smoking
+
+
 
 🎯 Project Use Cases
 
@@ -68,6 +77,7 @@ Risk analysis
 
 Machine learning model building
 
+
 🚀 Future Improvements
 
 Add Machine Learning models
@@ -78,6 +88,7 @@ Add Power BI dashboard
 
 Perform SQL-based analysis
 
+
 📁 Project Structure
 insurance-data-analysis/
 │
@@ -85,6 +96,7 @@ insurance-data-analysis/
 ├── analysis.ipynb
 ├── README.md
 └── requirements.txt
+
 
 👤 Author
 
